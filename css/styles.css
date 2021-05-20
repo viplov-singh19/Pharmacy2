@@ -1,0 +1,407 @@
+.ss{
+  height: 30px;
+margin-top: 0;
+margin-left: 50px;
+}
+.ssa{
+  margin-top: 8px;
+  color: white;
+}
+
+.navbar{
+    background-color: #3edbf0;
+  padding: 3px 10px;
+}
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2rem;
+  font-weight: bold;
+}
+.navlogo{
+  color: white;
+}
+
+.nav-item{
+  padding: 0 18px;
+
+}
+.nav-link{
+  font-size: 1.2rem;
+    color: white;
+}
+
+#slideshow{
+  background-color: #a4ebf3;
+}
+.slideshow-img{
+  height: 500px;
+  width: 1250px;
+  padding: 40px 10px;
+  border-radius: 30%;
+}
+#title{
+
+  padding: 80px 80px;
+  background-color: #a4ebf3;
+  color: white;
+  position: relative;
+  z-index: 1;
+  margin-bottom: 0;
+  height: 500px;
+}
+.title-img{
+  margin-left: 60px;
+  width:25%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 150px;
+}
+.title-heading{
+  font-family: 'Montserrat';
+  font-size: 5rem;
+}
+
+.prescrip{
+  position: absolute;
+  top:1500px;
+  left:50px;
+}
+
+.btn {
+  border: none;
+  color: white;
+  margin-top: 20px;
+  border-radius: 50px;
+  padding: 10px 20px;
+  cursor: pointer;}
+
+.success {background-color:#3edbf0 ;}
+.success:hover {background-color: green;}
+
+.prep-img{
+  position: absolute;
+  left: 150px;
+  top:30px;
+  height: 70px;
+  width: 70px;
+}
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather';
+}
+h1{
+  font-size: 90px;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento';
+
+}
+
+h2{
+font-family: 'Montserrat';
+margin: 0;
+margin-bottom: 0;
+text-align: center;
+
+}
+h3{
+  color: #11999E;
+  display:block;
+}
+.what-class:hover{
+  color: red;
+  text-decoration:overline;
+}
+p{
+margin-bottom: 0;
+}
+.safety{
+background-color: #a4ebf3
+
+}
+.h2safe{
+font-family: 'Merriweather';
+  display: inline;
+  color: white;
+  font-weight: bold;
+  position:relative;
+  bottom:20px;
+  right: 20px;
+}
+.safetyimg{
+  margin-top: 50px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  height:145px;
+  width: 175px;
+}
+
+.top-p{
+  padding: 10px 200px 20px 200px;
+}
+.top-container{
+  background-color: #a4ebf3;
+margin: 0;
+position: relative;
+padding-top: 75px;
+padding-bottom: 30px;
+}
+.middle-container{
+background-color: #3edbf0;
+margin: 0;
+}
+
+
+.bottom-container{
+background-color: #3edbf0;
+
+
+}
+.middle-heading{
+  font-family: "Montserrat-";
+  font-size: 3rem;
+  font-weight: bold;
+  color: #c0fefc;
+  padding: 10px 10px;
+
+}
+.mid-heading{
+  font-family: "Montserrat-";
+  font-size: 3rem;
+  font-weight: bold;
+  color:  white;
+  padding: 0 10px;
+  margin-top: 10px;
+
+}
+.mid-p{
+  font-family: "Montserrat-";
+  font-size: 2rem;
+  font-weight: bold;
+  color:  white;
+}
+
+.life{
+  width:13%;
+  float:left;
+  margin-right:30;
+  margin-bottom: 20px;
+  position: absolute;
+  right: 100px;
+  top:70px;
+
+}
+.life-class{
+  width:70%;
+  margin:30px auto 0 auto;
+  text-align: left;
+  line-height: 1.5;
+}
+.bottom-cloud{
+  position: absolute;
+     left:200px;
+}
+.top-cloud{
+  position: absolute;
+  top:30px;
+right:400px;
+}
+a{
+  color: #11999E;
+}
+.skill-row{
+  width: 600px;
+  height: 100px;
+
+  margin:10px auto 10px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+.app-img{
+  margin-right: 10px;
+  width: 15%;
+  float:left;
+  margin-right:30;
+}
+.diag-img{
+  width: 15%;
+  float:right;
+  margin-right:10px;
+}
+.lab-img{
+  width: 15%;
+    margin-right: 10px;
+  float:left;
+
+}
+.med-img{
+  width: 15%;
+  float:right;
+  margin-right:10px;
+}
+
+.box {
+  height: 120px;
+  width: 200px;
+  margin-right: 20px;
+  background-color: #3edbf0;
+  color: red;
+  display: inline-block;
+  border-radius: 25px;
+
+}
+.shop{
+  width:30%;
+}
+.box:hover{
+  background-color:#9fe6a0;
+  font-size: 120%;
+}
+
+.pro{
+
+}
+.packages{
+  height: 260px;
+  width: 300px;
+
+  background-color: #3edbf0;
+  color: red;
+  display: inline-block;
+  border-radius: 25px;
+
+}
+.img-pack{
+  margin-top: 20px;
+  padding-bottom: 10px;
+  border-radius: 50px;
+ height: 140px;
+ width: 140px;
+
+}
+
+.img-pack:hover{
+border-style:solid;
+transform: scale(2.5);
+}
+
+.img-pack2{
+  margin-top: 20px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+ height: 180px;
+ width: 180px;
+}
+
+.img-pack2:hover{
+border-style:solid;
+transform: scale(2);
+}
+
+.play-btn{
+  color: black;
+  margin-left: 20px;
+}
+
+.btn-btn{
+  display: inline-block;
+  margin: 10px 10px;
+}
+.btn-price{
+  color: red;
+}
+.footer-link{
+  color: red;
+}
+
+.about{
+
+  height: 250px;
+ display:inline-block;
+ margin-bottom: 0;
+ margin-top: 40px;
+}
+
+h5{
+  color: black;
+}
+.about-info{
+  text-align: left;
+  display: inline-block;
+  position: relative;
+  right: 80px;
+  margin-left: 100px;
+
+  margin-bottom: 0;
+
+}
+.ser{
+  background-color:#a4ebf3;
+  margin-bottom: 0;
+}
+.served{
+  height: 260px;
+  width: 300px;
+display: inline-block;
+padding: 20px 10px;
+
+}
+.served-class{
+  width:80px;
+  margin-top: 10px;
+}
+
+#pricing{
+  padding: 50px;
+background-color:#a4ebf3;
+}
+.pricing-col{
+  padding: 3% 2%;
+  text-align: center;
+
+}
+
+#footer{
+  padding: 20px 10px;
+  text-align: center;
+}
+.foot-img{
+  padding: 0px 10px 5px 10px;
+}
+
+#mySidenav a {
+  position: absolute; /* Position them relative to the browser window */
+  left: -80px; /* Position them outside of the screen */
+  transition: 0.3s; /* Add transition on hover */
+  padding: 15px; /* 15px padding */
+  width: 100px; /* Set a specific width */
+  text-decoration: none; /* Remove underline */
+  font-size: 20px; /* Increase font size */
+  color: white; /* White text color */
+  border-radius: 0 5px 5px 0; /* Rounded corners on the top right and bottom right side */
+}
+
+#mySidenav a:hover {
+  left: 0; /* On mouse-over, make the elements appear as they should */
+}
+
+/* The about link: 20px from the top with a green background */
+#about {
+  top: 80px;
+  background-color: #04AA6D;
+}
+
+#blog {
+  top: 160px;
+  background-color: #2196F3; /* Blue */
+}
+
+#projects {
+  top: 240px;
+  background-color: #f44336; /* Red */
+}
+
+#contact {
+  top: 320px;
+  background-color: #555 /* Light Black */
+}
